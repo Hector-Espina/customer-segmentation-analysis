@@ -223,5 +223,4 @@ data/processed/*
 !data/processed/.gitkeep
 
 # Generated figures
-reports/figures/*
 !reports/figures/.gitkeep
