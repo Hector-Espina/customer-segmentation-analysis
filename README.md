@@ -314,7 +314,6 @@ customer-segmentation-analysis/
 │   └── figures/
 ├── results/
 │   └── key_insights.md
-├── src/
 ├── requirements.in
 ├── requirements.txt
 ├── LICENSE

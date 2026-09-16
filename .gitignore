@@ -224,3 +224,6 @@ data/processed/*
 
 # Generated figures
 !reports/figures/.gitkeep
+
+data/raw/*
+!data/raw/.gitkeep
